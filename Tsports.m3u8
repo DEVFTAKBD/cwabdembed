@@ -1,11 +1,16 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720
 http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
-
 {
+  "rewrites": [
+    {
+      "source": "/Tsports.m3u8",
+      "destination": "/Tsports.m3u8"
+    }
+  ],
   "headers": [
     {
-      "source": "/*.m3u8",
+      "source": "/Tsports.m3u8",
       "headers": [
         { "key": "Access-Control-Allow-Origin", "value": "*" },
         { "key": "Access-Control-Allow-Methods", "value": "GET,OPTIONS" },
