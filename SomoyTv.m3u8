@@ -1,0 +1,21 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720
+https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+{
+  "rewrites": [
+    {
+      "source": "/SomoyTv.m3u8",
+      "destination": "/SomoyTv.m3u8"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/SomoyTv.m3u8",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET,OPTIONS" },
+        { "key": "Access-Control-Allow-Headers", "value": "Origin, X-Requested-With, Content-Type, Accept" }
+      ]
+    }
+  ]
+}
