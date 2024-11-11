@@ -5,4 +5,4 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:4, no desc
-http://103.190.85.38/hls/tsports.m3u8
+http://fcdn.bdixsports.live:1935/event/event.stream/chunklist_w1777134968.m3u8
