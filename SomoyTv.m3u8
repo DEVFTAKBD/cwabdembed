@@ -1,21 +1,8 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:4, no desc
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/stream_t43046fb8ebe756e00b8a3d33f8f3ce08_r872563736.m3u8?useVODOTFE=false&llhlsHBs=0.9
-{
-  "rewrites": [
-    {
-      "source": "/SomoyTv.m3u8",
-      "destination": "/SomoyTv.m3u8"
-    }
-  ],
-  "headers": [
-    {
-      "source": "/SomoyTv.m3u8",
-      "headers": [
-        { "key": "Access-Control-Allow-Origin", "value": "*" },
-        { "key": "Access-Control-Allow-Methods", "value": "GET,OPTIONS" },
-        { "key": "Access-Control-Allow-Headers", "value": "Origin, X-Requested-With, Content-Type, Accept" }
-      ]
-    }
-  ]
-}
