@@ -3,5 +3,5 @@
 https://uspro.click/tsports/index.m3u8?token=70e19312b3037636c50a1a44fee69e3c358fb5bc-25b586f395af1139752015636fd7b98f-1731442376-1731431576&amp;autoplay=true
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Bangladesh News Channels",BTV
-https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShPprJ8pRHcugtEoyW4e_UGcQqRbdv3irLxQ&s" group-title="BD Sports Channels",GTV
+https://uspro.click/gtv/index.m3u8?token=b8d6784b46d1a3fb2f5abecb0f27881fcf0aaed9-2d46dfb22c0d23ba9f32616d6204df6c-1731442537-1731431737&amp;autoplay=true
