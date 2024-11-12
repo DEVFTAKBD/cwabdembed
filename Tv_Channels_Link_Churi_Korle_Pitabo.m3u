@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",Tsports
-#EXTGRP:BD Sports Channels
+#EXTINF:-1 tvg-logo="" group-title="BD Sports Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",Tsports
 http://fcdn.bdixsports.live:1935/event/event.stream/chunklist_w1907055528.m3u8
