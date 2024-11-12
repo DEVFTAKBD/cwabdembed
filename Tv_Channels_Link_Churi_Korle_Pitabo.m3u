@@ -5,3 +5,8 @@ https://uspro.click/tsports/index.m3u8?token=70e19312b3037636c50a1a44fee69e3c358
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShPprJ8pRHcugtEoyW4e_UGcQqRbdv3irLxQ&s" group-title="BD Sports Channels",GTV
 https://uspro.click/gtv/index.m3u8?token=b8d6784b46d1a3fb2f5abecb0f27881fcf0aaed9-2d46dfb22c0d23ba9f32616d6204df6c-1731442537-1731431737&amp;autoplay=true
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzxaLVAoxI9qrwtRxZIF1laYWfoS3c0oGhdA&s" group-title="BD News Channels",BTV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
