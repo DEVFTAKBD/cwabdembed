@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/Tsports.m3u8",
+      "source": "/rtv.m3u8",
       "headers": [
         { "key": "Access-Control-Allow-Origin", "value": "*" },
         { "key": "Access-Control-Allow-Methods", "value": "GET,OPTIONS" },
